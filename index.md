@@ -1,5 +1,5 @@
 ---
-title: "First Github Pages"
+title: "First Github Pages site"
 ---
 
 A trial site
